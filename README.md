@@ -1,4 +1,4 @@
-# Minecraft Custom Hide and Seek Paper Plugin
+# Minecraft Custom Hide and Seek Paper Plugin (Minecraft version 1.21)
 This is a little minecraft server plugin I created to easily turn any minecraft world/map into a custom hide and seek gamemode to play with your friends!
 
 Feel free to use to play with your friends!
